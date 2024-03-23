@@ -5,7 +5,6 @@ public class Exercicio13 {
   public static void executar() {
     Scanner scanner = new Scanner(System.in);
 
-    // Solicita ao usuário que digite os valores e o operador
     System.out.print("Digite o valor de A: ");
     double a = scanner.nextDouble();
 
