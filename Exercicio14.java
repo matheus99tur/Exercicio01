@@ -1,5 +1,6 @@
 public class Exercicio14 {
 
+  // Exerc14
   public static int calcularTermoPA(int a1, int n, int r) {
 
     int an = a1 + (n - 1) * r;
