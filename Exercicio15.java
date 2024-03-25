@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Exerc15
+//Exercicio15
 public class Exercicio15 {
   public static void executar() {
     Scanner scanner = new Scanner(System.in);
@@ -10,7 +10,6 @@ public class Exercicio15 {
 
     System.out.print("Digite a coordenada y do primeiro ponto (y1): ");
     double y1 = scanner.nextDouble();
-
     System.out.print("Digite a coordenada x do segundo ponto (x2): ");
     double x2 = scanner.nextDouble();
 
