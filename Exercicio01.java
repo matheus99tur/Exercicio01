@@ -4,6 +4,7 @@ public class Exercicio01 {
   public static void executar() {
     Scanner scanner = new Scanner(System.in);
 
+    // Solicita ao usuário para digitar um número
     System.out.print("Digite um número: ");
     int numero = scanner.nextInt();
 
